@@ -1,6 +1,6 @@
 #include <iostream>
-
-int main() {
-    std::cout << "Hello, C++!" << std::endl;
+using namespace std;
+int main () {
+    std::cout << "ебать его в рот этот c++ ";
     return 0;
 }
